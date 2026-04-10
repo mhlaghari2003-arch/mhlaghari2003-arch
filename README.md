@@ -1,16 +1,60 @@
-## Hi there 4444444444444444444444👋
+# Ahmed | Data Science Engineer
 
-<!--
-**mhlaghari2003-arch/mhlaghari2003-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am a passionate Data Science Engineer with a strong background in data analysis, machine learning, and building scalable data-driven solutions. I enjoy transforming raw data into actionable insights and developing intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming Languages:** Python, SQL, R
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Big Data Tools:** Spark, Hadoop
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Version Control:** Git, GitHub
+
+---
+
+## 📊 Projects
+
+### 1. Machine Learning Model for Prediction
+- Developed a predictive model using supervised learning techniques
+- Improved accuracy by optimizing feature selection and tuning hyperparameters
+- Tools: Python, Scikit-learn
+
+### 2. Data Pipeline Automation
+- Built an automated ETL pipeline to process large datasets efficiently
+- Reduced processing time by 30%
+- Tools: Python, Apache Spark
+
+### 3. Data Visualization Dashboard
+- Designed an interactive dashboard for data insights
+- Enabled stakeholders to make data-driven decisions
+- Tools: Plotly, Dash
+
+---
+
+## 📈 Experience
+**Data Science Engineer**
+- Worked on real-world datasets to build machine learning models
+- Collaborated with cross-functional teams to deploy solutions
+- Optimized data workflows for better performance
+
+---
+
+## 🎓 Education
+- Bachelor's Degree in Computer Science / Data Science (or your field)
+- Relevant certifications in Machine Learning / Data Science
+
+---
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yourusername
+
+---
+
+## ⚡ Fun Fact
+I love exploring data patterns and turning them into meaningful insights!
